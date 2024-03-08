@@ -1,0 +1,16 @@
+{
+    "name": "priyakumari/objectlist",
+    "description": "Objectlist creation in  Backoffice",
+    "autoload": {
+        "psr-4": {
+            "Priyakumari\\Objectlist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Priya Kumari",
+            "email": "kumari@immobilie1.de"
+        }
+    ],
+    "require": {}
+}
