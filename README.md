@@ -1,5 +1,8 @@
 # immo1-objektlist
 
+git clone https://github.com/immobilie1/objektlist_immo1.git</br>
+cd objektlist_immo1<br />
+
 ## Project setup
 ```
 npm install
